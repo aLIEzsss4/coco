@@ -15,7 +15,8 @@ export default {
 
   data() {
     return {
-        tit:'子集标题是  ABC'
+        tit:'子集标题是  ABC',
+        oppo:'oppo!'
     }
   },
   
